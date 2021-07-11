@@ -8,18 +8,18 @@
 
 Finished courses about mapping, surveying, statistics, GIS, spatial analysis, remote sensing, etc.
 
-<h4>Interest</h4>
+<h3>Interest</h3>
 
 ![](https://img.shields.io/badge/Data_Analysis--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/-Data_Visualization-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Spatial_&_GIS_Analysis--informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-<h4>Tools & Technology</h4>
+<h3>Tools & Technology</h3>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-ArcGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanriz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<h4>📫 How to reach me:</h4>
+<h3>📫 How to reach me:</h3>
 
 - [Linkedin](https://www.linkedin.com/in/farhanrizaldi/)
 - <a href="mailto:rizaldifarhan@gmail.com">rizaldifarhan@gmail.com</a>
