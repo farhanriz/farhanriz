@@ -17,7 +17,8 @@ Finished courses about mapping, surveying, statistics, GIS, spatial analysis, re
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-ArcGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  
 
-![ Stats](https://leetcode-status.vercel.app/api/card/farhanriz?theme=dark&hide_title=false&custom_title=) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/farhanriz?ext=contest)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanriz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3>📫 How to reach me:</h3>
