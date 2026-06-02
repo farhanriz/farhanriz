@@ -3,10 +3,14 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=farhanriz)](https://github.com/farhanriz) [![GitHub followers](https://img.shields.io/github/followers/farhanriz.svg?style=social&label=Follow)](https://github.com/farhanriz?tab=followers)
 
 <i>I'm Farhan Rizaldi (Ari)</i>
-- Currently: Data Analyst at [Jabar Digital Service](https://digitalservice.jabarprov.go.id/)
+- Currently: Senior Data Analyst at [Sekolah.mu](https://www.linkedin.com/company/sekolahmu/posts/?feedView=all)
 - Background: Geodesy and Geomatics Engineering, Institut Teknologi Bandung
 
 Finished courses about mapping, surveying, statistics, GIS, spatial analysis, remote sensing, etc.
+
+<h3>Portfolio</h3>
+
+Check out my projects and work at [farhanriz.github.io](https://farhanriz.github.io)
 
 <h3>Interest</h3>
 
@@ -15,7 +19,7 @@ Finished courses about mapping, surveying, statistics, GIS, spatial analysis, re
 
 <h3>Tools & Technology</h3>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-ArcGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GIS-ArcGIS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/farhanriz?ext=contest)
 
